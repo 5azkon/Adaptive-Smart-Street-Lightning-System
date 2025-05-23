@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/5d61946e-8ac0-43b0-83bd-1ac885e5da4c
 <h2>Conclusion</h2>
 <h5>The implementation of adaptive smart street lighting systems represents a significant advancement towards creating sustainable and smart urban environments. This project aligns with global energy conservation efforts and urban resilience initiatives, promoting both environmental sustainability and operational efficiency.</h5>
 
-<a href="www.linkedin.com/in/mr-5azkon</a>
+![link](www.linkedin.com/in/mr-5azkon)
 
 
 
