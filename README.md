@@ -1,4 +1,4 @@
-# <h1>ADAPTIVE SMART STREET LIGHTNING SYSTEM WITH DAY/NIGHT & MOTION BASED INTENSITY CONTROL</h1>
+# <h1>ADAPTIVE SMART STREET LIGHTNING SYSTEM WITH DAY/NIGHT MOTION BASED INTENSITY CONTROL</h1>
 
 <h2>Introduction</h2>
 <h5>Street lighting in urban environments is vital for ensuring safety, security, and accessibility. Traditional street lighting systems often operate on fixed schedules and lack adaptive capabilities, resulting in inefficiencies and excessive energy consumption. To address these challenges, this project proposes an adaptive smart street lighting system equipped with day/night and motion-based intensity control mechanisms.</h5>
